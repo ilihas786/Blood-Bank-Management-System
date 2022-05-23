@@ -8,6 +8,6 @@ Blood  Bank Management System
 
 after that to visit the website follow
 http://localhost/bbms/
-
+http://localhost/bbms/user/
 To see database 
 http://localhost/phpmyadmin/index.php?route=/sql&db=mypro_bbms&table=admin&pos=0
